@@ -14,6 +14,7 @@ public class ContatoBean {
 		System.out.println("Gravando contato "+ contato.getNome());
 		System.out.println("Gravando contato "+ contato.getTelefone());
 		System.out.println("Gravando contato "+ contato.getNascimento());
+		System.out.println();
 		return paginarecebe;
 	}
 	
